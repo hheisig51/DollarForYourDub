@@ -6,34 +6,64 @@ Dub is a musical genre characterized by exaggerated reverb, delay, and bass; rem
 
 ## Can I Hear It?
 
-King Tubby: Winter Dub, King at the control. About 1:08 in.
+King Tubby, Winter Dub, 1981:
 
 <audio controls="controls">
-  <source type="audio/wav" src="King-Tubby.wav"></source>
+  <source type="audio/wav" src="King-Tubby_Winter-Dub.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
 
-King Tubby. "Winter Dub."
+---
+
+Al Green, Love and Happiness. 1972:
+
+<audio controls="controls">
+  <source type="audio/wav" src="Al-Green_Love-and-Happiness.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Lee "Scratch" Perry sampled Al Green's song for the Upsetters in 1973.
+
+Upsetters, Jungle Lion. 1973:
+
+<audio controls="controls">
+  <source type="audio/wav" src="Lee-Scratch-Perry-and-Upsetter_Jungle-Lion.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
+
+Busta Rhymes then sampled Perry's sample in 1997.
+
+Busta Rhymes, Turn It Up. 1997:
+
+<audio controls="controls">
+  <source type="audio/wav" src="Busta-Rhymes_Turn-It-Up.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 ---
 
-Al Green, Love and Happiness
+Jacob Miller, Baby I Love You So. 1975:]
 
-Lee Scratch Perry, The Upsetter
+<audio controls="controls">
+  <source type="audio/wav" src="Jacob-Miller_Baby-I-Love-You-So.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
-Busta Rhymes, turn it up
+Augustus Pablo, King Tubby's Meet Rockers Up-Town. 1975:
+
+<audio controls="controls">
+  <source type="audio/wav" src="Augustus-Pablo_King_Tubby_Meets_Rockers_Uptown.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 ---
 
-Augustus Pablo:
+Bob Marley and the Wailers, Sun is Shining. 1978:
 
-Jacob Miller, Baby I Love You So
-
----
-
-Lee "Scratch" Perry for Bob Marley:
-
-Sun Is Shining, Bob Marley and the Wailers Kayo. From the top.
+<audio controls="controls">
+  <source type="audio/wav" src="Bob-Marley_Sun-Is-Shining.wav"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 ---
 
@@ -59,15 +89,19 @@ It's influenced/created quite a few genres too:
 
 - King Tubby. "Winter Dub." _King At The Control_ Tad's Records, 1981, track 3. _YouTube_, [www.youtube.com/watch?v=aGtO08uw0cQ&t=68s](www.youtube.com/watch?v=aGtO08uw0cQ&t=68s)
 
-- Al Green. "Love and Happiness" _I'm Still In Love With You_, 1972, track 3. _YouTube_, [https://www.youtube.com/watch?v=rqqAnjY2Rmo&t=198s](https://www.youtube.com/watch?v=rqqAnjY2Rmo&t=198s)
+- Al Green. "Love and Happiness." _I'm Still In Love With You_, 1972, track 3. _YouTube_, [https://www.youtube.com/watch?v=rqqAnjY2Rmo&t=198s](https://www.youtube.com/watch?v=rqqAnjY2Rmo&t=198s)
 
-- Upsetters. "Jungle Lion" _Double Seven_, 1973,. _YouTube_, []
+- Upsetters. "Jungle Lion." _Double Seven_, 1973, track 5. _YouTube_, [https://youtu.be/Ke6NVMfIhcI?t=61](https://youtu.be/Ke6NVMfIhcI?t=61)
 
-- Busta Rhymes
+- Busta Rhymes. "Turn It Up." _When Disaster Strikes..._, 1997, track 7. _YouTube_, [https://youtu.be/z1aTN01nO8Q?t=7](https://youtu.be/z1aTN01nO8Q?t=7)
 
-- Jacob Miller
+- Jacob Miller. "Baby I Love You So." _Baby I Love You So / King Tubby's Meet Rockers Up-Town_, 1975, track 1. _YouTube_, [https://www.youtube.com/watch?v=L4AybyEtOLY](https://www.youtube.com/watch?v=L4AybyEtOLY)
 
-- Bob Marley and the Wailers
+- Augustus Pablo. "King Tubby's Meet Rockers Up-Town." _Baby I Love You So / King Tubby's Meet Rockers Up-Town_, 1975, track 2. _YouTube_, [https://www.youtube.com/watch?v=oxAl3Jijs20](https://www.youtube.com/watch?v=oxAl3Jijs20)
+
+- Bob Marley and the Wailers. "Sun Is Shining." _Kaya_, 1978, track 4. _YouTube_, [https://www.youtube.com/watch?v=5T3UmvutR8k](https://www.youtube.com/watch?v=5T3UmvutR8k)
+
+Any work referenced in this project has it's own respective license.
 
 ![CC BY-SA 4.0 logo](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
