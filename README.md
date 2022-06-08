@@ -42,12 +42,14 @@ Busta Rhymes, Turn It Up. 1997:
 
 ---
 
-Jacob Miller, Baby I Love You So. 1975:]
+Jacob Miller, Baby I Love You So. 1975:
 
 <audio controls="controls">
   <source type="audio/wav" src="Jacob-Miller_Baby-I-Love-You-So.wav"></source>
   <p>Your browser does not support the audio element.</p>
 </audio>
+
+Augustuc Pablo produced Jacob Millers's single, and released a Tubby-inspired dub remix on the B-side.
 
 Augustus Pablo, King Tubby's Meet Rockers Up-Town. 1975:
 
